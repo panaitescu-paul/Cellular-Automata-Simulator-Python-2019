@@ -1,4 +1,4 @@
-# ElementaryCellularAutomaton-Python-2019
+# Elementary Cellular Automaton - Python - 2019
 
 
 ### Features:

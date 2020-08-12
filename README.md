@@ -1,4 +1,4 @@
-# Elementary Cellular Automaton - Python - 2019
+# Cellular Automata Simulator - Python - 2019
 
 
 ### Features:
